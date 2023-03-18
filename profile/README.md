@@ -36,3 +36,4 @@ If you have any questions or comments about NotyBot, feel free to contact us at 
 
 ### See More
 [![Twitter](https://img.shields.io/badge/Twitter-00ACEE?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/NotyBotApp)
+[![Linkedin](https://img.shields.io/badge/Linkedin-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/91024566)
