@@ -9,8 +9,30 @@
 
 [![NotyBot banner](https://raw.githubusercontent.com/Notybot/.github/main/assets/banner-rounded.svg)](https://notybot.org/)
 
-## Sponsors
+# NotyBot
+
+NotyBot is an online service for managing your Discord bot from a user-friendly web interface. Managers or developers can develop and sell their own features on our site.
+
+## Features
+
+- Complete management of your Discord bot from a user-friendly web interface.
+- Ability to develop and sell custom features on our site.
+- Advanced customization options to fit your specific needs.
+- Regular updates and feature enhancements to ensure exceptional user experience.
+
+## Join Our Alpha Program
+
+We are currently looking for testers for our alpha program. If you're interested in participating, please sign up on our website at notybot.org for more information.
+
+## Contact Us
+
+If you have any questions or comments about NotyBot, feel free to contact us at contactnotybot@gmail.com.
+
+## Contributors
 <a href="https://github.com/AzarowDev"><img src="https://avatars.githubusercontent.com/u/61085504" width="64px"></a>
+<a href="https://github.com/leadcodeDev"><img src="https://avatars.githubusercontent.com/u/8946317?v=4" width="64px"></a>
+<a href="https://github.com/NathaelB"><img src="https://avatars.githubusercontent.com/u/64804778?v=44" width="64px"></a>
+<a href="https://github.com/AugustinLegrandv"><img src="https://avatars.githubusercontent.com/u/64466360?v=4" width="64px"></a>
 
 ### See More
-[![Patreon](https://img.shields.io/badge/Twitter-00ACEE?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/NotyBotApp)
+[![Twitter](https://img.shields.io/badge/Twitter-00ACEE?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/NotyBotApp)
